@@ -1,0 +1,25 @@
+{
+  "name": "wormgpt-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot with WormGPT capabilities for code translation, bug fixing, and AI Q&A.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram-bot",
+    "wormgpt",
+    "openai",
+    "ai",
+    "code-translator",
+    "bug-fixer"
+  ],
+  "author": "Manus",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "telegraf": "^4.16.1",
+    "express": "^4.19.2"
+  }
+}
+
